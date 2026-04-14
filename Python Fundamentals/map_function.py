@@ -1,0 +1,1 @@
+## This is where we will learn about the map function in python and how we use it and all that
